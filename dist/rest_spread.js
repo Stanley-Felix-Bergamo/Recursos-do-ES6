@@ -63,5 +63,5 @@ console.log('\n', carroDoStanley);
 
 var motorBase = carro.motor;
 console.log('\n Motor base é:', motorBase);
-var motorDoStanley = carroDoStanley.modelo;
+var motorDoStanley = carroDoStanley.motor;
 console.log('\n Motor do Stanley é:', motorDoStanley);
